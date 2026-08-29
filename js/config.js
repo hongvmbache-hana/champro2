@@ -8,7 +8,7 @@ const CONFIG = {
     // Thay thế các chuỗi "LINK_CSV_..." bằng link thực tế của anh
     
     // Tab DanhSachTinh (Cột: TenTinh, LinkCSV)
-    URL_DANH_SACH_TINH: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlBaBQWrwlVYTKY0zr2t7M-xnplWarLHSWjdDznpg32V1aZUrnxyirY-HNGo11jozXX7ZnUhsoBBoS/pub?gid=0&single=true&output=csv", 
+    URL_DANH_SACH_TINH: "https://docs.google.com/spreadsheets/d/1q4ir9dpDi-3evrnEk1wiW8x1yFN0Nd1cs1bX9ZKicsE/edit?gid=1140232706#gid=1140232706&single=true&output=csv", 
     
     // Tab CauHinhDuongLink (Cột: LinhVuc, LinkMau)
     URL_CAU_HINH_LINK: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlBaBQWrwlVYTKY0zr2t7M-xnplWarLHSWjdDznpg32V1aZUrnxyirY-HNGo11jozXX7ZnUhsoBBoS/pub?gid=166163611&single=true&output=csv",
